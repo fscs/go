@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
 jobs:
-  tests:
+  buils:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -11,3 +11,7 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: nix build
+    - name: Deploy GitHub Pages site
+      uses: actions/deploy-pages@v2.0.2
+      with:
+        artifact-name: "result"
