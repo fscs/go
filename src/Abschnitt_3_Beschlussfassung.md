@@ -1,6 +1,7 @@
 # Abschnitt III: Beschlussfassung
 ## § 0 Eröffnung der Beschlussfassung
 Die Redeleitung eröffnet nach Abschluss der Aussprache und Wiederholung der Wortlaute der Anträge die Beschlussfassung.
+
 ## § 1 Gültigkeit eines Beschluss
 Ein Beschluss ist gültig, wenn:
 1. die Sitzung ordnungsgemäß einberufen wurde
@@ -42,11 +43,9 @@ Die Abstimmung ist geheim durchzufuehren:
 1. bei Personenwahlen.
 2. auf Verlangen eines Fachschaftsrates.
 
-
-
 ## § 7 Sondervotum
 Jedes Mitglied des Fachschaftsrates kann seine vom Mehrheitsbeschluss abweichende Meinung in einem Sondervotum schriftlich artikulieren. Das Sondervotum muss in der Sitzung vorgetragen und begründet werden. Sondervoten müssen der Sitzungskoordination binnen 24 Stunden zugeleitet werden, um ins Protokoll aufgenommen zu werden. Soweit Beschlüsse anderen Stellen zugeleitet
 oder der Öffentlichkeit zuganglich gemacht werden, sind auch die zu Protokoll genommenen Sondervoten weiterzuleiten oder zu veröffentlichen.
 
 ## § 8 Einspruch
-Einspruch gegen einen Beschluss ist als Antrag nach §8 Abs. 4 Nr. 5 der GO möglich. Über die Zulässigkeit dieses Antrages entscheidet die Redeleitung. Die Beanstandung eines Beschlusses oder einer Wahl kann auch gegenüber dem Rechtsausschuss erklärt werden. Wenn ein Verstoß gegen die Satzung des Studierendenparlamentes oder rechtliche Regelungen vorlag, hat die Sitzungskoordination den entsprechenden Beschluss zu beanstanden.
+Einspruch gegen einen Beschluss ist als Antrag nach Abschnitt 2, § 11 Abs. 4 Punkt 25 der GO möglich. Über die Zulässigkeit dieses Antrages entscheidet die Redeleitung. Die Beanstandung eines Beschlusses oder einer Wahl kann auch gegenüber dem Rechtsausschuss erklärt werden. Wenn ein Verstoß gegen die Satzung des Studierendenparlamentes oder rechtliche Regelungen vorlag, hat die Sitzungskoordination den entsprechenden Beschluss zu beanstanden.
