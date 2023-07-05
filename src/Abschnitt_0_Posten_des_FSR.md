@@ -1,5 +1,5 @@
 # Abschnitt 0: Posten des Fachschaftsrates
-## § 0 Offizielle Posten der Fachschaft
+## § 0 Offizielle Posten der Fachschaft { #§0 }
 Der Fachschaftsrat hat folgende Posten:
   1. Sitzungskoordination
   2. E-Mail-Beauftragte
@@ -11,7 +11,7 @@ Der Fachschaftsrat hat folgende Posten:
   8. Schlüsselbeauftragte
  
 Für alle offizielen Posten gibt es mindestens eine Stellvertretung
-## § 1 Aufgaben der Posten
+## § 1 Aufgaben der Posten { #§1 }
 ### 1. Sitzungskoordination
 Der Sitzungskoordination obliegt die Ankündigung der Sitzung, die Koordination des Fachschaftsrates und die Archivierung der Beschlüsse. Im Regelfall ist diese auch die Redeleitung für die Sitzung (siehe TODO). 
 ### 2. E-Mail-Beauftragte
@@ -32,7 +32,7 @@ Die Glaskästen-Beauftragten sind dafür verantwortlich, offizielle Ankündigung
 Der Schlüsselbeauftragte ist für die Pflege des
 Schlüsselordners und der Kommunikation mit entsprechenden Stellen der Universität verantwortlich.
 
-## § 2 Ausscheiden aus den Posten der Fachschaft
+## § 2 Ausscheiden aus den Posten der Fachschaft { #§2 }
 Die Übernahme eines Postens oder Aufgabe der Fachschaft endet vorzeitig durch
 - Exmatrikulation,
 - Rücktritt, der der Sitzungskoordination schriftlich mitzuteilen ist,
@@ -44,7 +44,7 @@ Das Mitglied informiert die Sitzungskoordination über Exmatrikulation und Rück
 
 Die Beschlüsse der Vollversammlung und des Fachschaftsrates über das Ausscheiden aus einem Posten der Fachschaft benötigen je eine 2/3 Mehrheit der abstimmungsberechtigten anwesenden Personen.
 
-## § 3 Stellvertretung und Nachrückverfahren
+## § 3 Stellvertretung und Nachrückverfahren { #§3 }
 ### 1.
 Falls der gewählte Verantwortliche für einen Posten ausscheidet, übernimmt automatisch die Stellvertretung die Verantwortung für den Posten. Dabei gelten die gleichen Verantwortlichkeiten und Aufgaben wie für den ursprünglich gewählten Verantwortlichen. Falls bei offiziellen Posten kein Stellvertreter mehr exisitiert übernimmt die Sitzungskoordination diesen kommisarisch bis zur nächsten Sitzung.
 - Abweichend von Satz 3, gilt im Falle der Sitzungskoordination, dass die älteste Person des Rates diese bis zum Ende der nächsten Sitzung übernimmt.
@@ -52,6 +52,6 @@ Falls der gewählte Verantwortliche für einen Posten ausscheidet, übernimmt au
 ### 2.
 Auf der nächsten Sitzung werden leere Posten/fehlende Stellverterer neu gewählt.
 
-## § 4 Weitere Posten
+## § 4 Weitere Posten { #§4 }
 
 Die Fachschaft kann zusätzliche Posten schaffen, indem sie eine Person direkt für einen Posten wählt und diese Person mit den entsprechenden Aufgaben und Pflichten betraut. Bei Bedarf kann auch eine Stellvertretung gewählt werden. Die Verantwortlichkeiten für jeden Posten werden klar definiert. Jeder Posten bleibt bis zur nächsten Konstituierungssitzung oder bis zum Ausscheiden der gewählten Person(en) bestehen.

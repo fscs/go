@@ -27,7 +27,9 @@
             mdbook-katex
             mdbook-emojicodes
             mdbook-d2
+            mdbook-pdf
             mdbook-plantuml
+            chromium # To create the pdf
             d2
             rust-bin.stable.latest.default
           ];

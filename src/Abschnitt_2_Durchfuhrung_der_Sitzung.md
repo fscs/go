@@ -83,45 +83,45 @@ Meldung für einen GO-Antrag deutlich zu machen, hebt das Mitglied gleichzeitig 
 ### 3. Behandlung und Beschlussfassung
 Auf einen GO-Antrag kann eine Gegenrede folgen. Diese kann auch formal erfolgen. Einer inhaltlichen Gegenrede ist der formalen Gegenrede der Vorzug zu geben. Auf die Gegenrede ist keine weitere Wortmeldung zulässig. Erfolgt eine Gegenrede, wird unverzüglich über den GO- Antrag abgestimmt, falls das Antrag stellende Mitglied diesen nicht zuvor zurückzieht. Erfolgt keine Gegenrede, ist der GO-Antrag angenommen. Wird vor der Abstimmung ein weiterer GO-Antrag gestellt, muss dieser weiterführend sein, um sofort berücksichtigt zu werden. In diesem Fall wird über den weiterführenden GO-Antrag abgestimmt. Zur GO-Anträgen dürfen Einzelne nicht langer als fünf Minuten sprechen.
 ### 4. Anträge
-0. Änderung der beschlossenen Tagesordnung.
+#### 0. Änderung der beschlossenen Tagesordnung.
    - Bedarf einer 2/3 Mehrheit
    - Nach Aufruf von Verschiedenes, nicht mehr möglich.
-1. Schluss der Aussprache und sofortige Beschlussfassung oder Beendigung des Tagesordnungspunktes.
+#### 1. Schluss der Aussprache und sofortige Beschlussfassung oder Beendigung des Tagesordnungspunktes.
    - Bedarf einer 2/3 Mehrheit
-2. Wiedereintritt in die Aussprache
+#### 2. Wiedereintritt in die Aussprache
    - Bedarf einer 2/3 Mehrheit
-3. Namentliche Abstimmung.
+#### 3. Namentliche Abstimmung.
    - Gilt bei Gegenrede als abgelehnt
    - Kann auch von nicht Fachschaftsräten gestellt werden
    - Nicht erlaubt bei GO-Anträgen
-4. Geheime Abstimmung.
+#### 4. Geheime Abstimmung.
    - Keine Gegenrede möglich
    - Nicht erlaubt bei GO-Anträgen
-5. Erneute Feststellung der Beschlussfähigkeit.
+#### 5. Erneute Feststellung der Beschlussfähigkeit.
    - Keine Gegenrede möglich
-6. Unterbrechung der Sitzung für einen bestimmten Zeitraum x (2 Minuten >= x <= 10 Minuten)
-    - Keine Gegenrede möglich
-    - Hoechstens 10 Minuten Pause pro 30 Minuten
-7. Beschränkung der Redezeit.
-8. Schluss der Redeliste.
-    - Vor Abstimmung sind die auf der Redeliste stehende Menschen zu nennen.
-    - Alle mit Rederecht duerfen sich noch einmal auf die Redeliste stellen.
-9. Nichtbefassung eines Antrages.
-10. Antrag zur vorübergehenden Aussetzung eines Tagesordnungspunktes.
-11. Vertagung eines Punktes der Tagesordnung.
-12. Gemeinsame Aussprache über gleichartige oder im Sachzusammenhang stehende Verhandlungsgegenstände.
-13. Vertagung der Sitzung.
-14. Einräumung eines Rederechts für Personen, die nicht Mitglied der verfassten Fachschaft sind.
-15. Zulassung von Einzelnen zur nichtöffentlichen Sitzung,
-    - Gilt bei Gegenrede als abgelehnt.
-26. En-Bloc-Abstimmung mehrerer Anträge.
-    - Gilt bei Gegenrede als abgelehnt.
-21. Tagesordnungspunkt im weiteren Verlauf für die Öffentlichkeit schließen.
-22. Entzug des Rederechts eines nicht-Fachschaftsrates für den aktuellen Tagesordnungspunkt.
-    - Bedarf einer 2/3 Mehrheit
-24. Sitzungsverweis einer Person ohne Rederecht.
-25. Feststellung der objektiven Unklarheit über den Inhalt, die Nicht-Ordnungsmäßigkeit einer Beschlussfassung oder einer Wahl und sofortige Wiederholung dieser Beschlussfassung oder dieses Wahlganges.
-    - Keine Gegenrede möglich
-    - Kann nur direkt nach Abstimmung gestellt werden
-    - Über die Zulässigkeit entscheidet die Sitzungskoordination, gegebenenfalls nach Rücksprache mit dem autonomen Fachschaftenreferat oder weiteren Stellen des AStA. Hierzu kann ein Beschluss zurückgestellt und vertagt werden, wenn die Mehrheit der anwesenden Fachschaftsräte dies als notwendig erachtet.
-    - Erklärt die Sitzungskoordination den Antrag für nicht zulässig, kann die antragstellende Person den Rechtsausschuss anrufen. Dieser entscheidet binnen drei Wochen ab Anrufung. Der Beschluss des Fachschaftsrates ist bis zu einer verbindlichen Entscheidung des Rechtsausschusses unwirksam.
+#### 6. Unterbrechung der Sitzung für einen bestimmten Zeitraum x (2 Minuten >= x <= 10 Minuten)
+   - Keine Gegenrede möglich
+   - Hoechstens 10 Minuten Pause pro 30 Minuten
+#### 7. Beschränkung der Redezeit.
+#### 8. Schluss der Redeliste.
+   - Vor Abstimmung sind die auf der Redeliste stehende Menschen zu nennen.
+   - Alle mit Rederecht duerfen sich noch einmal auf die Redeliste stellen.
+#### 9. Nichtbefassung eines Antrages.
+#### 10. Antrag zur vorübergehenden Aussetzung eines Tagesordnungspunktes.
+#### 11. Vertagung eines Punktes der Tagesordnung.
+#### 12. Gemeinsame Aussprache über gleichartige oder im Sachzusammenhang stehende Verhandlungsgegenstände.
+#### 13. Vertagung der Sitzung.
+#### 14. Einräumung eines Rederechts für Personen, die nicht Mitglied der verfassten Fachschaft sind.
+#### 15. Zulassung von Einzelnen zur nichtöffentlichen Sitzung,
+   - Gilt bei Gegenrede als abgelehnt.
+#### 16. En-Bloc-Abstimmung mehrerer Anträge.
+   - Gilt bei Gegenrede als abgelehnt.
+#### 17. Tagesordnungspunkt im weiteren Verlauf für die Öffentlichkeit schließen.
+#### 18. Entzug des Rederechts eines nicht-Fachschaftsrates für den aktuellen Tagesordnungspunkt.
+   - Bedarf einer 2/3 Mehrheit
+#### 19. Sitzungsverweis einer Person ohne Rederecht.
+#### 20. Feststellung der objektiven Unklarheit über den Inhalt, die Nicht-Ordnungsmäßigkeit einer Beschlussfassung oder einer Wahl und sofortige Wiederholung dieser Beschlussfassung oder dieses Wahlganges.
+   - Keine Gegenrede möglich
+   - Kann nur direkt nach Abstimmung gestellt werden
+   - Über die Zulässigkeit entscheidet die Sitzungskoordination, gegebenenfalls nach Rücksprache mit dem autonomen Fachschaftenreferat oder weiteren Stellen des AStA. Hierzu kann ein Beschluss zurückgestellt und vertagt werden, wenn die Mehrheit der anwesenden Fachschaftsräte dies als notwendig erachtet.
+   - Erklärt die Sitzungskoordination den Antrag für nicht zulässig, kann die antragstellende Person den Rechtsausschuss anrufen. Dieser entscheidet binnen drei Wochen ab Anrufung. Der Beschluss des Fachschaftsrates ist bis zu einer verbindlichen Entscheidung des Rechtsausschusses unwirksam.
