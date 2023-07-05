@@ -15,6 +15,13 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: nix build
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v3.1.2
+      with:
+        # Artifact name
+        name: "result" # optional, default is artifact
+        # A file, directory or wildcard pattern that describes what to upload
+        path: "result"
     - name: Deploy GitHub Pages site
       uses: actions/deploy-pages@v2.0.2
       with:
