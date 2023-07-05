@@ -37,7 +37,7 @@
               mkdir book
               mdbook build -d book
             '';
-            installPhase = "mdbook build -d $out";
+            installPhase = "mdbook build -d $out/book";
             
           };
         
