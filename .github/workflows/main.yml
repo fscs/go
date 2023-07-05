@@ -24,6 +24,7 @@ jobs:
         path: "./result/book"
   deploy:
     runs-on: ubuntu-latest
+    needs: build
     steps:
     - name: Deploy GitHub Pages site
       uses: actions/deploy-pages@v2.0.2
