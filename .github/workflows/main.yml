@@ -19,7 +19,7 @@ jobs:
       uses: actions/configure-pages@v3
     - run: nix build
     - name: Copy Output
-      run: 'cp -r .result/book book'
+      run: 'cp -r ./result/book book'
     - name: Upload a Build Artifact
       uses: actions/upload-pages-artifact@v1
       with:
