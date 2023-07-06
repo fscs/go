@@ -19,7 +19,7 @@ Das Protokoll muss enthalten:
 Fachschaftsrates (Sondervotum) nach § 8 Abs. 11 der GO,</a>
 5. <a name="§1.5">die Unterschrift der protokollierenden Person und der Redeleitung.</a>
 ## § 2 Veröffentlichung des Protokolls { #§2 }
-Das genehmigte Protokoll wird öffentlich durch Aushang und in digitaler Form bekannt gemacht.
+Das genehmigte Protokoll wird öffentlich an den ueblichen Stellen bekannt gemacht.
 Fachschaftsrat archiviert die unterzeichnete Ausfertigung des Protokolls. Waren Teile der Sitzung
 nichtöffentlich, so sind die Protokollteile darüber nur den Mitgliedern des Fachschaftsrates und
 seiner Ausschüsse sowie dem AStA und seinen Beschäftigten zugänglich.
