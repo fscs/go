@@ -7,17 +7,17 @@ Eine protokollierende Person fertigt ein Protokoll der Sitzung an.
 Das Protokoll muss enthalten:
 
 0. <a name="§1.0">Datum und Uhrzeit des Beginns und des Endes der Sitzung,</a>
-1. <a name="§1.1">eine Anwesenheitsliste in deraufgelistet sind:
+1. <a name="§1.1">eine Anwesenheitsliste in deraufgelistet sind:</a>
 	
-	0. <a name="§1.1.0">alle anwesenden Mitglieder des Fachschaftsrates.
-	1. <a name="§1.1.1">nicht anwesende Mitglieder des Fachschaftsrates unterteilt in entschuldigt und unentschuldigt.
-	2. <a name="§1.1.2">weiter anwesende Personen, wenn sie moechten.
+	0. <a name="§1.1.0">alle anwesenden Mitglieder des Fachschaftsrates.</a>
+	1. <a name="§1.1.1">nicht anwesende Mitglieder des Fachschaftsrates unterteilt in entschuldigt und unentschuldigt.</a>
+	2. <a name="§1.1.2">weiter anwesende Personen, wenn sie moechten.</a>
 
-2. <a name="§1.2">die beschlossene Tagesordnung, die Texte der Anträge,
-3. <a name="§1.3">die Beschlüsse im Wortlaut und die Ergebnisse der Abstimmungen,
-4. <a name="§1.4">auf Antrag die vom Mehrheitsbeschluss abweichende Meinung eines Mitgliedes des
-Fachschaftsrates (Sondervotum) nach § 8 Abs. 11 der GO,
-5. <a name="§1.5">die Unterschrift der protokollierenden Person und der Redeleitung.
+2. <a name="§1.2">die beschlossene Tagesordnung, die Texte der Anträge,</a>
+3. <a name="§1.3">die Beschlüsse im Wortlaut und die Ergebnisse der Abstimmungen,</a>
+4. <a name="§1.4">auf Antrag die vom Mehrheitsbeschluss abweichende Meinung eines Mitgliedes des</a>
+Fachschaftsrates (Sondervotum) nach § 8 Abs. 11 der GO,</a>
+5. <a name="§1.5">die Unterschrift der protokollierenden Person und der Redeleitung.</a>
 ## § 2 Veröffentlichung des Protokolls { #§2 }
 Das genehmigte Protokoll wird öffentlich durch Aushang und in digitaler Form bekannt gemacht.
 Fachschaftsrat archiviert die unterzeichnete Ausfertigung des Protokolls. Waren Teile der Sitzung
