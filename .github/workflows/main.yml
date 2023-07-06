@@ -19,7 +19,8 @@ jobs:
       uses: actions/configure-pages@v3
       with:
         enablement: true
-    - run: nix build --no-link
+    - run: nix build
+    - run: cd result
     - name: Upload a Build Artifact
       uses: actions/upload-pages-artifact@v1
       with:
