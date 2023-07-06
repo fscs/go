@@ -20,8 +20,6 @@ jobs:
       with:
         enablement: true
     - run: nix build --no-link
-    - name: Copy Output
-      run: 'cp -r ./result/book book'
     - name: Upload a Build Artifact
       uses: actions/upload-pages-artifact@v1
       with:
