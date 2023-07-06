@@ -18,6 +18,8 @@ jobs:
       id: pages
       uses: actions/configure-pages@v3
     - run: nix build
+    - name: Copy Output
+      run: 'cp -r .result/book book'
     - name: Upload a Build Artifact
       uses: actions/upload-pages-artifact@v1
       with:
@@ -25,9 +27,6 @@ jobs:
         path: "./result/book"
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     needs: build
     steps:
     - name: Deploy GitHub Pages site
