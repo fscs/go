@@ -15,7 +15,7 @@ Ein Beschluss ist gültig, wenn:
  
  
 ## § 2 Dauer eines Beschlusses { #§2 }
-Ein normaler Beschluss gilt bis zum Ende der Amtszeit. Der Rat kann sich dazu entscheiden, dass einzelnde Beschluesse alternativ bis zum Ende des Jahres gelten.
+Ein normaler Beschluss gilt bis zum Ende der Amtszeit. Der Rat kann sich dazu entscheiden, dass einzelnde Beschluesse alternativ bis zum Ende des Haushaltsjahres gelten.
 
 ## § 3 Änderungsantrage { #§3 }
 Sind zu einem Antrag Änderungsanträge gestellt worden, so ist über diese vor dem Hauptantrag zu beschließen. Soweit der Fachschaftsrat den Änderungsanträgen zustimmt oder sie von der antragstellenden Person den Hauptantrag übernommen werden, wird der Hauptantrag in der
