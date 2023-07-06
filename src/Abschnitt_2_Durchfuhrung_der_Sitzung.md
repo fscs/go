@@ -72,55 +72,58 @@ Die Antragsberechtigten können zu jedem Punkt der Tagesordnung und während sei
 ### 3. Anfragen { #§10.3 }
 Alle Mitglieder der Fachschaft sind berechtigt, Anfragen an den Fachschaftsrat, und einzelne Mitglieder des Fachschaftsrates zu stellen. Anfragen, die das Abstimmungsverhalten betreffen, sind unzulässig.  Anfragen müssen schriftlich beantwortet werden. Die Antworten müssen der Sitzungskoordination bis  Sitzungsbeginn zugeleitet werden. Die Sitzungskoordination verliest die Antworten und leitet sie an das fragende Mitglied der Fachschaft weiter.
 
-## § 11 Anträge zur Geschäftsordnung (GO-Anträge) { #§11 }
-### 0. Zweck { #§11.0 }
+## § 11 Zeitliche Begrenzung der Sitzungen { #§11 }
+Nach 22.30 Uhr darf kein Tagesordnungspunkt außer „Verschiedenes“ aufgerufen werden. Ebenfalls nicht nach 120 Minuten es sei denn, mindestens zwei Drittel der anwesenden Mitglieder des Fachschaftsrates sprechen sich für eine Fortführung der Sitzung aus.
+
+## § 12 Anträge zur Geschäftsordnung (GO-Anträge) { #§12 }
+### 0. Zweck { #§12.0 }
 Der Antrag muss sich auf den zur Beratung stehenden Verhandlungsgegenstand oder auf die
 Tagesordnung beziehen.
-### 1. Antragstellung { #§11.1 }
+### 1. Antragstellung { #§12.1 }
 Liegt eine Meldung für einen GO-Antrag vor, so erhält das antragstellende Mitglied des Fachschaftsrates umgehend, spätestens nach dem aktuellen Redebeitrag, das Wort. Um eine
 Meldung für einen GO-Antrag deutlich zu machen, hebt das Mitglied gleichzeitig beide Hände.
 
-### 2. Behandlung und Beschlussfassung { #§11.2 }
+### 2. Behandlung und Beschlussfassung { #§12.2 }
 Auf einen GO-Antrag kann eine Gegenrede folgen. Diese kann auch formal erfolgen. Einer inhaltlichen Gegenrede ist der formalen Gegenrede der Vorzug zu geben. Auf die Gegenrede ist keine weitere Wortmeldung zulässig. Erfolgt eine Gegenrede, wird unverzüglich über den GO- Antrag abgestimmt, falls das Antrag stellende Mitglied diesen nicht zuvor zurückzieht. Erfolgt keine Gegenrede, ist der GO-Antrag angenommen. Wird vor der Abstimmung ein weiterer GO-Antrag gestellt, muss dieser weiterführend sein, um sofort berücksichtigt zu werden. In diesem Fall wird über den weiterführenden GO-Antrag abgestimmt. Zur GO-Anträgen dürfen Einzelne nicht langer als fünf Minuten sprechen.
-### 3. Anträge { #§11.3 }
-#### 0. Änderung der beschlossenen Tagesordnung. { #§11.3.0 }
+### 3. Anträge { #§12.3 }
+#### 0. Änderung der beschlossenen Tagesordnung. { #§12.3.0 }
    - Bedarf einer 2/3 Mehrheit
    - Nach Aufruf von Verschiedenes, nicht mehr möglich.
-#### 1. Schluss der Aussprache und sofortige Beschlussfassung oder Beendigung des Tagesordnungspunktes. { #§11.3.1 }
+#### 1. Schluss der Aussprache und sofortige Beschlussfassung oder Beendigung des Tagesordnungspunktes. { #§12.3.1 }
    - Bedarf einer 2/3 Mehrheit
-#### 2. Wiedereintritt in die Aussprache { #§11.3.2 }
+#### 2. Wiedereintritt in die Aussprache { #§12.3.2 }
    - Bedarf einer 2/3 Mehrheit
-#### 3. Namentliche Abstimmung. { #§11.3.3 }
+#### 3. Namentliche Abstimmung. { #§12.3.3 }
    - Gilt bei Gegenrede als abgelehnt
    - Kann auch von nicht Fachschaftsräten gestellt werden
    - Nicht erlaubt bei GO-Anträgen
-#### 4. Geheime Abstimmung. { #§11.3.4 }
+#### 4. Geheime Abstimmung. { #§12.3.4 }
    - Keine Gegenrede möglich
    - Nicht erlaubt bei GO-Anträgen
-#### 5. Erneute Feststellung der Beschlussfähigkeit. { #§11.3.5 }
+#### 5. Erneute Feststellung der Beschlussfähigkeit. { #§12.3.5 }
    - Keine Gegenrede möglich
-#### 6. Unterbrechung der Sitzung für einen bestimmten Zeitraum x (2 Minuten >= x <= 10 Minuten) { #§11.3.6 }
+#### 6. Unterbrechung der Sitzung für einen bestimmten Zeitraum x (2 Minuten >= x <= 10 Minuten) { #§12.3.6 }
    - Keine Gegenrede möglich
    - Hoechstens 10 Minuten Pause pro 30 Minuten
-#### 7. Beschränkung der Redezeit. { #§11.3.7 }
-#### 8. Schluss der Redeliste. { #§11.3.8 }
+#### 7. Beschränkung der Redezeit. { #§12.3.7 }
+#### 8. Schluss der Redeliste. { #§12.3.8 }
    - Vor Abstimmung sind die auf der Redeliste stehende Menschen zu nennen.
    - Alle mit Rederecht duerfen sich noch einmal auf die Redeliste stellen.
-#### 9. Nichtbefassung eines Antrages. { #§11.3.9 }
-#### 10. Antrag zur vorübergehenden Aussetzung eines Tagesordnungspunktes. { #§11.3.10 }
-#### 11. Vertagung eines Punktes der Tagesordnung. { #§11.3.11 }
-#### 12. Gemeinsame Aussprache über gleichartige oder im Sachzusammenhang stehende Verhandlungsgegenstände. { #§11.3.12 }
-#### 13. Vertagung der Sitzung. { #§11.3.13 }
-#### 14. Einräumung eines Rederechts für Personen, die nicht Mitglied der verfassten Fachschaft sind. { #§11.3.14 }
-#### 15. Zulassung von Einzelnen zur nichtöffentlichen Sitzung { #§11.3.15 }
+#### 9. Nichtbefassung eines Antrages. { #§12.3.9 }
+#### 10. Antrag zur vorübergehenden Aussetzung eines Tagesordnungspunktes. { #§12.3.10 }
+#### 12. Vertagung eines Punktes der Tagesordnung. { #§12.3.11 }
+#### 12. Gemeinsame Aussprache über gleichartige oder im Sachzusammenhang stehende Verhandlungsgegenstände. { #§12.3.12 }
+#### 13. Vertagung der Sitzung. { #§12.3.13 }
+#### 14. Einräumung eines Rederechts für Personen, die nicht Mitglied der verfassten Fachschaft sind. { #§12.3.14 }
+#### 15. Zulassung von Einzelnen zur nichtöffentlichen Sitzung { #§12.3.15 }
    - Gilt bei Gegenrede als abgelehnt.
-#### 16. En-Bloc-Abstimmung mehrerer Anträge. { #§11.3.16 }
+#### 16. En-Bloc-Abstimmung mehrerer Anträge. { #§12.3.16 }
    - Gilt bei Gegenrede als abgelehnt.
-#### 17. Tagesordnungspunkt im weiteren Verlauf für die Öffentlichkeit schließen. { #§11.3.17 }
-#### 18. Entzug des Rederechts eines nicht-Fachschaftsrates für den aktuellen Tagesordnungspunkt. { #§11.3.18 }
+#### 17. Tagesordnungspunkt im weiteren Verlauf für die Öffentlichkeit schließen. { #§12.3.17 }
+#### 18. Entzug des Rederechts eines nicht-Fachschaftsrates für den aktuellen Tagesordnungspunkt. { #§12.3.18 }
    - Bedarf einer 2/3 Mehrheit
-#### 19. Sitzungsverweis einer Person ohne Rederecht. { #§11.3.19 }
-#### 20. Feststellung der objektiven Unklarheit über den Inhalt, die Nicht-Ordnungsmäßigkeit einer Beschlussfassung oder einer Wahl und sofortige Wiederholung dieser Beschlussfassung oder dieses Wahlganges. { #§11.3.20 }
+#### 19. Sitzungsverweis einer Person ohne Rederecht. { #§12.3.19 }
+#### 20. Feststellung der objektiven Unklarheit über den Inhalt, die Nicht-Ordnungsmäßigkeit einer Beschlussfassung oder einer Wahl und sofortige Wiederholung dieser Beschlussfassung oder dieses Wahlganges. { #§12.3.20 }
    - Keine Gegenrede möglich
    - Kann nur direkt nach Abstimmung gestellt werden
    - Über die Zulässigkeit entscheidet die Sitzungskoordination, gegebenenfalls nach Rücksprache mit dem autonomen Fachschaftenreferat oder weiteren Stellen des AStA. Hierzu kann ein Beschluss zurückgestellt und vertagt werden, wenn die Mehrheit der anwesenden Fachschaftsräte dies als notwendig erachtet.
