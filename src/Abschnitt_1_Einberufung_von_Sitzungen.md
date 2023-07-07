@@ -21,13 +21,13 @@ Der Tagesordnungsvorschlag muss enthalten:
     - Genehmigung der Tagesordnung
     - Genehmigung des Protokolls der vorherigen Sitzung
 1. <a name="§4.1">Top 1: Berichte</a>
-    - Bericht des Fachschaftrates
+    - Bericht des Fachschaftsrates
 2. <a name="§4.2">Letzter TOP der Sitzung: Sonstiges</a>
 
 Bei einem regelmäßigen Termin reicht es aus, in der Bekanntmachung die Orte und Zeiten zu nennen, an denen der jeweilige Tagesordnungsvorschlag, das vorläufige Protokoll der vorherigen Sitzung und die eingereichten Anträge eingesehen werden können.
 
 ## § 5 Dringlichkeitssitzung { #§5 }
-Im Fall von außerordentlicher Dringlichkeit muss eine Sitzung durch die Sitzungkoordination einberufen werden, wenn dieses über die Hälfte der gewählten Mitglieder des Fachschaftsrates durch ihre Unterschrift der Redeleitung fordern. 
+Im Fall von außerordentlicher Dringlichkeit muss eine Sitzung durch die Sitzungskoordination einberufen werden, wenn dieses über die Hälfte der gewählten Mitglieder des Fachschaftsrates durch ihre Unterschrift der Redeleitung fordern. 
 
 Bei Angelegenheiten, welche eine ⅔ Mehrheit benötigen, müssen sich auch ⅔ der Mitglieder des Fachschaftsrates, bei der Redeleitung für eine Dringlichkeitssitzung aussprechen.
 
