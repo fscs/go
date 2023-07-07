@@ -16,7 +16,7 @@ Das Protokoll muss enthalten:
 2. <a name="§1.2">die beschlossene Tagesordnung, die Texte der Anträge,</a>
 3. <a name="§1.3">die Beschlüsse im Wortlaut und die Ergebnisse der Abstimmungen,</a>
 4. <a name="§1.4">auf Antrag die vom Mehrheitsbeschluss abweichende Meinung eines Mitgliedes des</a>
-Fachschaftsrates (Sondervotum) nach § 8 Abs. 11 der GO,</a>
+Fachschaftsrates (Sondervotum) nach [III.§6](./Abschnitt_3_Beschlussfassung.md#§6) der GO,</a>
 5. <a name="§1.5">die Unterschrift der protokollierenden Person und der Redeleitung.</a>
 ## § 2 Veröffentlichung des Protokolls { #§2 }
 Das genehmigte Protokoll wird öffentlich an den ueblichen Stellen bekannt gemacht.
@@ -27,6 +27,6 @@ seiner Ausschüsse sowie dem AStA und seinen Beschäftigten zugänglich.
 Das Protokoll wird zu Beginn der folgenden Sitzung durch den Fachschaftsrat genehmigt, nachdem
 sich seine Mitglieder von der Richtigkeit überzeugt haben.
 ## § 4 Beschlussausfertigung { #§4 }
-Beschlüsse des Fachschaftsrates werden von der Sitzungskoordination ausgefertigt, unterzeichnet und schnellstmöglich, jedoch spätestens sieben Tage nach der Sitzung öffentlich bekannt gemacht.
+Beschlüsse des Fachschaftsrates werden von der Sitzungskoordination ausgefertigt und schnellstmöglich, jedoch spätestens sieben Tage nach der Sitzung öffentlich bekannt gemacht. Eine implizite Veroeffentlichung von Beschluessen im Protkollen reicht, ausser bei Dauerbeschluessen.
 ## § 5 Aktenführung { #§5 }
 Geschäfts- und Schriftführung des Fachschaftsrates sind so zu gestalten, dass beim Amtswechsel sämtliche Vorgänge aus den Akten eindeutig zu rekonstruieren sind. Mitglieder des Fachschaftsrates haben das Recht, die Akten jederzeit einzusehen.
