@@ -4,14 +4,14 @@ Die Redeleitung eröffnet nach Abschluss der Aussprache und Wiederholung der Wor
 
 ## § 1 Gültigkeit eines Beschluss { #§1 }
 Ein Beschluss ist gültig, wenn:
-1. die Sitzung ordnungsgemäß einberufen wurde
-2. mehr als die Hälfte der Mitglieder anwesend war,
-3. für den Antrag mehr Ja-Stimmen als Nein-Stimmen abgegeben wurden.
-4. Abweichend von 3. ist eine 2/3 Mehrheit des Fachschaftrates noetig für,
-	1. den Erlass, die Änderung oder die Aufhebung der Geschäftsordnung des FSR gemäß [Satzung § 59 Absatz 2](https://sphhu.de/documents/2022/07/satzung.pdf/).
-	2. die Beschlussfassung über einer vorgezogenen Neuwahl des FSR gemäß [Satzung § 62 Absatz 7 Punkt 1](https://sphhu.de/documents/2022/07/satzung.pdf/).
-5.  Abweichend von 3. ist eine absolute der Fachschaftsratete, bei Aufhebung von Beschluessen noetig.
-6. Wenn 4. oder 5. Eintritt muss die Redeleitung dadrauf auf merksam machen, dies ist im Protkoll zu vermerken.
+0. die Sitzung ordnungsgemäß einberufen wurde
+1. mehr als die Hälfte der Mitglieder anwesend war,
+2. für den Antrag mehr Ja-Stimmen als Nein-Stimmen abgegeben wurden.
+3. Abweichend von 3. ist eine 2/3 Mehrheit des Fachschaftrates noetig für,
+	0. den Erlass, die Änderung oder die Aufhebung der Geschäftsordnung des FSR gemäß [Satzung § 59 Absatz 2](https://sphhu.de/documents/2022/07/satzung.pdf/).
+	1. die Beschlussfassung über einer vorgezogenen Neuwahl des FSR gemäß [Satzung § 62 Absatz 7 Punkt 1](https://sphhu.de/documents/2022/07/satzung.pdf/).
+4.  Abweichend von 3. ist eine absolute der Fachschaftsratete, bei Aufhebung von Beschluessen noetig.
+5. Wenn 4. oder 5. Eintritt muss die Redeleitung dadrauf auf merksam machen, dies ist im Protkoll zu vermerken.
  
  
 ## § 2 Dauer eines Beschlusses { #§2 }
@@ -42,7 +42,7 @@ Die abgegebenen Stimmen haben, auf Verlangen eines Mitglieds der Fachschaft, nam
 Die Abstimmung ist geheim durchzufuehren:
 
 0. <a name="§5.1.1">bei Personenwahlen.</a>
-1. <a name="§5.1.1"> auf Verlangen eines Fachschaftsrates.</a>
+1. <a name="§5.1.1">auf Verlangen eines Fachschaftsrates.</a>
 
 ## § 6 Sondervotum { #§6 }
 Jedes Mitglied des Fachschaftsrates kann seine vom Mehrheitsbeschluss abweichende Meinung in einem Sondervotum schriftlich artikulieren. Das Sondervotum muss in der Sitzung vorgetragen und begründet werden. Sondervoten müssen der Sitzungskoordination binnen 24 Stunden zugeleitet werden, um ins Protokoll aufgenommen zu werden. Soweit Beschlüsse anderen Stellen zugeleitet
