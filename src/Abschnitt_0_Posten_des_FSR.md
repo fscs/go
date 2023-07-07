@@ -4,7 +4,7 @@ Der Fachschaftsrat hat folgende Posten:
 
   0. <a name="§0.0">Sitzungskoordination</a>
   1. <a name="§0.1">E-Mail-Beauftragte</a>
-  2. <a name="§0.2">Kassenwart</a>
+  2. <a name="§0.2">Finanzbeauftragte</a>
   3. <a name="0.3">FSVK-Vetreter</a>
   4. <a name="§0.4">Postbeauftragete</a>
   5. <a name="§0.5">Webseiten-Beauftragte</a>
