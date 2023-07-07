@@ -15,7 +15,7 @@ Das Protokoll muss enthalten:
 
 2. <a name="§1.2">die beschlossene Tagesordnung, die Texte der Anträge,</a>
 3. <a name="§1.3">die Beschlüsse im Wortlaut und die Ergebnisse der Abstimmungen,</a>
-4. <a name="§1.4">auf Antrag die vom Mehrheitsbeschluss abweichende Meinung eines Mitgliedes des</a>
+4. <a name="§1.4">auf Antrag die vom Mehrheitsbeschluss abweichende Meinung eines Mitgliedes des
 Fachschaftsrates (Sondervotum) nach [III.§6](./Abschnitt_3_Beschlussfassung.md#§6) der GO,</a>
 5. <a name="§1.5">die Unterschrift der protokollierenden Person und der Redeleitung.</a>
 ## § 2 Veröffentlichung des Protokolls { #§2 }
