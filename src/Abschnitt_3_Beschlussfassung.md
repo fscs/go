@@ -49,4 +49,4 @@ Jedes Mitglied des Fachschaftsrates kann seine vom Mehrheitsbeschluss abweichend
 oder der Öffentlichkeit zuganglich gemacht werden, sind auch die zu Protokoll genommenen Sondervoten weiterzuleiten oder zu veröffentlichen.
 
 ## § 7 Einspruch { #§7 }
-Einspruch gegen einen Beschluss ist als Antrag nach Abschnitt 2, § 11 Abs. 4 Punkt 25 der GO möglich. Über die Zulässigkeit dieses Antrages entscheidet die Redeleitung. Die Beanstandung eines Beschlusses oder einer Wahl kann auch gegenüber dem Rechtsausschuss erklärt werden. Wenn ein Verstoß gegen die Satzung des Studierendenparlamentes oder rechtliche Regelungen vorlag, hat die Sitzungskoordination den entsprechenden Beschluss zu beanstanden.
+Einspruch gegen einen Beschluss ist als Antrag nach [II.§12.3.20](./Abschnitt_2_Durchfuhrung_der_Sitzung.md#§12.3.20) der GO möglich. Über die Zulässigkeit dieses Antrages entscheidet die Redeleitung. Die Beanstandung eines Beschlusses oder einer Wahl kann auch gegenüber dem Rechtsausschuss erklärt werden. Wenn ein Verstoß gegen die Satzung des Studierendenparlamentes oder rechtliche Regelungen vorlag, hat die Sitzungskoordination den entsprechenden Beschluss zu beanstanden.
