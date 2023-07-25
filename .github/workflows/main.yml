@@ -4,7 +4,6 @@ permissions:
   pages: write
   id-token: write
 on:
-  pull_request:
   push:
 concurrency:
   group: "pages"
