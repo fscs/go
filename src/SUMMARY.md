@@ -5,5 +5,5 @@
 - [Abschnitt II: Durchführung der Sitzung](./Abschnitt_2_Durchfuhrung_der_Sitzung.md)
 - [Abschnitt III: Beschlussfassung](./Abschnitt_3_Beschlussfassung.md)
 - [Abschnitt IV: Protokoll](./Abschnitt_4_Protokoll.md)
-- [Abschnitt V: Sonstige Bestimmungen](./Abschnitt_5_Sonsitge%20Bestimmungen.md)
+- [Abschnitt V: Sonstige Bestimmungen](./Abschnitt_5_Sonstige%20Bestimmungen.md)
 - [Abschnitt VI: Schlussbestimmungen](./Abschnitt_6_Schlussbestimmungen.md)
