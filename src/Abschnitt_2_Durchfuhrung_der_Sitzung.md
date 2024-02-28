@@ -131,5 +131,5 @@ Auf einen GO-Antrag kann eine Gegenrede folgen. Diese kann auch formal erfolgen.
 #### 20. Feststellung der objektiven Unklarheit über den Inhalt, die Nicht-Ordnungsmäßigkeit einer Beschlussfassung oder einer Wahl und sofortige Wiederholung dieser Beschlussfassung oder dieses Wahlganges. { #§12.3.20 }
    - Keine Gegenrede möglich
    - Kann nur direkt nach Abstimmung gestellt werden
-   - Über die Zulässigkeit entscheidet die Sitzungskoordination, gegebenenfalls nach Rücksprache mit dem autonomen Fachschaftenreferat oder weiteren Stellen des AStA. Hierzu kann ein Beschluss zurückgestellt und vertagt werden, wenn die Mehrheit der anwesenden Fachschaftsräte dies als notwendig erachtet.
-   - Erklärt die Sitzungskoordination den Antrag für nicht zulässig, kann die antragstellende Person den Rechtsausschuss anrufen. Dieser entscheidet binnen drei Wochen ab Anrufung. Der Beschluss des Fachschaftsrates ist bis zu einer verbindlichen Entscheidung des Rechtsausschusses unwirksam.
+   - Über die Zulässigkeit entscheidet die Redeleitung, gegebenenfalls nach Rücksprache mit dem autonomen Fachschaftenreferat oder weiteren Stellen des AStA. Hierzu kann ein Beschluss zurückgestellt und vertagt werden, wenn die Mehrheit der anwesenden Fachschaftsräte dies als notwendig erachtet.
+   - Erklärt die Redeleitung den Antrag für nicht zulässig, kann die antragstellende Person den Rechtsausschuss anrufen. Dieser entscheidet binnen drei Wochen ab Anrufung. Der Beschluss des Fachschaftsrates ist bis zu einer verbindlichen Entscheidung des Rechtsausschusses unwirksam.

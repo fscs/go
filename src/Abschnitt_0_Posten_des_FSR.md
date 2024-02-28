@@ -15,7 +15,7 @@ Für alle offiziellen Posten gibt es mindestens eine Stellvertretung
 
 ## § 1 Aufgaben der Posten { #§1 }
 ### 0. Sitzungskoordination { #§1.0 }
-Der Sitzungskoordination obliegt die Ankündigung der Sitzung, die Koordination des Fachschaftsrates und die Archivierung der Beschlüsse. Im Regelfall ist diese auch die Redeleitung für die Sitzung (siehe TODO). 
+Der Sitzungskoordination obliegt die Ankündigung der Sitzung, die Koordination des Fachschaftsrates und die Archivierung der Beschlüsse. Im Regelfall ist diese auch die Redeleitung für die Sitzung (siehe [II.§1](Abschnitt_2_Durchfuhrung_der_Sitzung.md#§1)). 
 
 ### 1. E-Mail-Beauftragte { #§1.1 }
 Die E-Mail-Beauftragten sind für die Pflege der E-Mail-Accounts des Fachschaftsrates und Berichte bezüglich dieser verantwortlich.
@@ -43,6 +43,7 @@ Schlüsselordners und der Kommunikation mit entsprechenden Stellen der Universit
 Die Übernahme eines Postens oder Aufgabe der Fachschaft endet vorzeitig durch
 - Exmatrikulation,
 - Rücktritt, der der Sitzungskoordination schriftlich mitzuteilen ist,
+- Rücktritt, aus dem Fachschaftsrat. Wenn nicht gewünscht wird, den Posten zu behalten.
 - Tod,
 - Beschluss der Vollversammlung,
 - Beschluss des Fachschaftsrates.
