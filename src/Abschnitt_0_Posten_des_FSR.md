@@ -4,12 +4,12 @@ Der Fachschaftsrat hat folgende Posten:
 
   0. <a name="§0.0">Sitzungskoordination</a>
   1. <a name="§0.1">E-Mail-Beauftragte</a>
-  2. <a name="§0.2">Finanzbeauftragte</a>
+  2. <a name="§0.2">Kassenwarte</a>
   3. <a name="0.3">FSVK-Vertreter</a>
   4. <a name="§0.4">Postbeauftragte</a>
   5. <a name="§0.5">Webseiten-Beauftragte</a>
   6. <a name="§0.6">Glaskästen-Beauftragte</a>
-  7. <a name="§0.7">Schlüsselbeauftragte</a>
+  7. <a name="§0.7">Schlüssel-Beauftragte</a>
  
 Für alle offiziellen Posten gibt es mindestens eine Stellvertretung
 
@@ -20,22 +20,22 @@ Der Sitzungskoordination obliegt die Ankündigung der Sitzung, die Koordination 
 ### 1. E-Mail-Beauftragte { #§1.1 }
 Die E-Mail-Beauftragten sind für die Pflege der E-Mail-Accounts des Fachschaftsrates und Berichte bezüglich dieser verantwortlich.
 
-### 2. Kassenwart { #§1.2 }
+### 2. Kassenwarte { #§1.2 }
 Die Kassenwarte sind für die Koordination und Durchführung von Finanzbeschlüssen verantwortlich. Ebenso obliegt ihnen die Aufstellung von Kassenberichten und Haushaltsplänen.
 
 ### 3. FSVK-Vertreter { #§1.3 }
 Die FSVK-Vertreter sind zur Teilnahme an der FSVK verpflichtet, auf der diese im Namen der Fachschaft abstimmen sollen. Sie können in ihrer Stimmabgabe per Beschluss weisungsgebunden werden.
 
-### 4. Postbeauftragte { #§1.4 }
+### 4. Post-Beauftragte { #§1.4 }
 Die Postbeauftragten überprüfen mindestens einmal pro Woche, ob die Fachschaft Post erhalten hat und berichten darüber in der Ratssitzung.
 
-### 5. Webseiten-Beauftragter { #§1.5 }
+### 5. Webseiten-Beauftragte { #§1.5 }
 Der Webseiten-Beauftragter hat die Aufgabe die Protokolle der Sitzungen auf der Webseite zu veröffentlichen (siehe TODO). Weiterhin sind diese dafür verantwortlich, dass Veranstaltungen der Fachschaft auf der Webseite angekündigt werden.
 
-### 6. Glaskätsten-Beauftragte { #§1.6 }
+### 6. Glaskästen-Beauftragte { #§1.6 }
 Die Glaskästen-Beauftragten sind dafür verantwortlich, offizielle Ankündigungen des Rats, welche physich ausgehängt werden müssen in den Glaskästen auszuhängen. Zudem sorgen sie dafür, dass Veranstaltungen der Fachschaft dort angekündigt werden.
 
-### 7. Schlüsselbeauftragte { #§1.7 }
+### 7. Schlüssel-Beauftragte { #§1.7 }
 Der Schlüsselbeauftragte ist für die Pflege des
 Schlüsselordners und der Kommunikation mit entsprechenden Stellen der Universität verantwortlich.
 
