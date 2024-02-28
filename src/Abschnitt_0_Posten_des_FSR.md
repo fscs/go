@@ -55,7 +55,7 @@ Die Beschlüsse der Vollversammlung und des Fachschaftsrates über das Ausscheid
 ## § 3 Stellvertretung und Nachrückverfahren { #§3 }
 ### 0. { #§3.0 }
 Falls der gewählte Verantwortliche für einen Posten ausscheidet, übernimmt automatisch die Stellvertretung die Verantwortung für den Posten. Dabei gelten die gleichen Verantwortlichkeiten und Aufgaben wie für den ursprünglich gewählten Verantwortlichen. Falls bei offiziellen Posten kein Stellvertreter mehr existiert übernimmt die Sitzungskoordination diesen kommissarisch bis zur nächsten Sitzung.
-- Abweichend von Satz 3, gilt im Falle der Sitzungskoordination, dass die älteste Person des Rates diese bis zum Ende der nächsten Sitzung übernimmt.
+- Abweichend von Satz 3, gilt im Falle der Sitzungskoordination, dass die älteste anwesende Person des Rates diese bis zum Ende der nächsten Sitzung übernimmt.
 
 ### 1. { #§3.1 }
 Auf der nächsten Sitzung werden leere Posten/fehlende Stellvertreter neu gewählt.
