@@ -15,7 +15,8 @@ Für alle offiziellen Posten gibt es mindestens eine Stellvertretung
 
 ## § 1 Aufgaben der Posten { #§1 }
 ### 0. Sitzungskoordination { #§1.0 }
-Der Sitzungskoordination obliegt die Ankündigung der Sitzung, die Koordination des Fachschaftsrates und die Archivierung der Beschlüsse. Im Regelfall ist diese auch die Redeleitung für die Sitzung (siehe [III.§1](Abschnitt_3_Durchfuhrung_der_Sitzung.md#§1)). 
+Die Sitzungskoordination ist verantwortlich für die Koordination des FSR, für die Vorbereitung und Durchführung der Sitzungen, für die Beschlussfassung außerhalb der Sitzungen, sowie die Bekanntmachung und Archivierung der Beschlüsse. Die
+Sitzungskoordination vertritt den FSR, sofern der FSR nicht etwas Anderes bestimmt (siehe [Satzung § 60](https://sphhu.de/documents/2022/07/satzung.pdf/)). Im Regelfall ist diese auch die Redeleitung für die Sitzung (siehe [III.§1](Abschnitt_3_Durchfuhrung_der_Sitzung.md#§1)). 
 
 ### 1. E-Mail-Beauftragte { #§1.1 }
 Die E-Mail-Beauftragten sind für die Pflege der E-Mail-Accounts des Fachschaftsrates und Berichte bezüglich dieser verantwortlich.
