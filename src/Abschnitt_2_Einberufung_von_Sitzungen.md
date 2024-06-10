@@ -1,4 +1,4 @@
-# Abschnitt I: Einberufung von Sitzungen
+# Abschnitt II: Einberufung von Sitzungen
 ## § 0 Ankündigung { #§0 }
 Die Einberufung der Sitzungen erfolgt drei Tage vor Sitzungstermin, durch die Sitzungskoordination in Form einer öffentlichen Bekanntmachung.
 

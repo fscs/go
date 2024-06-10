@@ -1,4 +1,4 @@
-# Abschnitt II: Durchführung der Sitzung
+# Abschnitt III: Durchführung der Sitzung
 ## § 0 Öffentlichkeit { #§0 }
 Die Sitzungen des Fachschaftsrates sind öffentlich.
 
@@ -66,7 +66,7 @@ Der Punkt „Sonstiges“ ist an das Ende der Tagesordnung zu setzen und soll im
 
 ## § 10 Anträge und Anfragen { #§10 }
 ### 0. Frist { #§10.0 }
-Anträge und Anfragen sollen schriftlich bis zum vierten Tag vor der Sitzung bei der Sitzungskoordination eingereicht und begründet werden. Anträge und Anfragen, die bis vier Tage vor der Sitzung des Fachschaftsrates bei der Sitzungskoordination eingereicht worden sind, sind unter Berücksichtigung von [§ 21 Punkt 2](#2-Pflicht-zur-Ankündigung) in die Tagesordnung der nächsten Sitzung aufzunehmen. Anträge und Anfragen, die später eingereicht werden, werden auf die darauf folgende Sitzung verschoben.
+Anträge und Anfragen sollen schriftlich bis zum vierten Tag vor der Sitzung bei der Sitzungskoordination eingereicht und begründet werden. Anträge und Anfragen, die bis vier Tage vor der Sitzung des Fachschaftsrates bei der Sitzungskoordination eingereicht worden sind, sind unter Berücksichtigung von [§ 9.1](#§9.1) in die Tagesordnung der nächsten Sitzung aufzunehmen. Anträge und Anfragen, die später eingereicht werden, werden auf die darauf folgende Sitzung verschoben.
 
 ### 1. Antrags- und Anfrageberechtigte { #§10.1 }
 Berechtigt ist jedes Mitglied der Fachschaft.
