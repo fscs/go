@@ -39,7 +39,7 @@ Die Abstimmung ist geheim durchzuführen:
 1. <a name="§5.1.1">auf Verlangen eines Fachschaftsrates.</a>
 
 ## § 6 Umlaufbeschlüße { #§6 }
-Der Fachschaftsrat kann einzelnde Beschlüße auch außerhalb der Sitzung fassen. Dazu veröffentlicht die Sitzungskoordination, die Beschlussvorlage zunächst an den üblichen Stellen. Woraufhin, die Räte der Sitzungskoordination in geeignter Weise ihr 
+Der Fachschaftsrat kann einzelnde Beschlüße auch außerhalb der Sitzung fassen. Dazu veröffentlicht die Sitzungskoordination, die Beschlussvorlage zunächst an den üblichen Stellen. Woraufhin, die Räte der Sitzungskoordination in geeignter Weise ihre Stimme übermittteln.
 
 ## § 7 Sondervotum { #§7 }
 Jedes Mitglied des Fachschaftsrates kann seine vom Mehrheitsbeschluss abweichende Meinung in einem Sondervotum schriftlich artikulieren. Das Sondervotum muss in der Sitzung vorgetragen und begründet werden. Sondervoten müssen der Sitzungskoordination binnen 24 Stunden zugeleitet werden, um ins Protokoll aufgenommen zu werden. Soweit Beschlüsse anderen Stellen zugeleitet oder der Öffentlichkeit zugänglich gemacht werden, sind auch die zu Protokoll genommenen Sondervoten weiterzuleiten oder zu veröffentlichen.
