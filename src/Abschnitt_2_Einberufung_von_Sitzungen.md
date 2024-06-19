@@ -1,6 +1,6 @@
 # Abschnitt II: Einberufung von Sitzungen
 ## § 0 Ankündigung { #§0 }
-Die Einberufung der Sitzungen erfolgt drei Tage vor Sitzungstermin, durch die Sitzungskoordination in Form einer öffentlichen Bekanntmachung.
+Die Einberufung der Sitzungen erfolgt drei Tage vor Sitzungstermin, durch die Sitzungskoordination in Form einer öffentlichen Bekanntmachung an den üblichen Stellen.
 
 ## § 1 Sitzungstermin { #§1 }
 Der Fachschaftsrat beschließt entweder auf jeder Sitzung den nächsten Sitzungstermin oder beschließt einen regelmäßigen Termin. Hierbei soll ein größtmöglicher Konsens zwischen den Mitgliedern des Fachschaftsrates gefunden werden. Die Sitzungen müssen in den regulären Veranstaltungszeiten der HHU Düsseldorf (8-20 Uhr) beginnen.

@@ -34,7 +34,7 @@ Der Fachschaftsrat ist beschlussfähig, wenn die Sitzung ordnungsgemäß bekannt
 Zu Beginn jeder Sitzung (TOP 0 Regularia) ist die Beschlussfähigkeit des Fachschaftsrates festzustellen.
 
 ### 1. Folgen der Beschlussunfähigkeit { #§8.2 }
-Wird Beschlussunfähigkeit festgestellt, sollte über die für die Sitzung vorgeschlagenen Beschlüsse als Umlaufbeschlüsse erfolgen.
+Wird Beschlussunfähigkeit festgestellt, sollte über die für die Sitzung vorgeschlagenen Beschlüsse als [Umlaufbeschlüsse](./Abschnitt_4_Beschlussfassung.md#§6) erfolgen.
 
 Falls dies nicht möglich ist kann innerhalb einer Woche, jedoch frühestens 24 Stunden nach dem Beginn der als beschlussunfähig festgestellten Sitzung, eine weitere Sitzung des Fachschaftsrats stattfinden. Sitzungskoordination und stellvertretende Sitzungskoordination müssen den Termin dieser Sitzung einstimmig bestimmen. Bei dieser ist dann die Beschlussfähigkeit unabhängig von der Anzahl der anwesenden Mitglieder gegeben. Darauf muss in der Bekanntmachung hingewiesen werden. In diesem Fall gilt nicht die normale Frist. Für Ersatztermine darf kein zusätzlicher Antrag gefasst werden.
 
@@ -51,6 +51,7 @@ Folgende Anträge können nur in die Tagesordnung aufgenommen werden, wenn sie b
 3. Wahl von offiziellen Posten
 4. Abwahl von Posten
 5. Finanzanträge (es sei denn, eine Mehrheit von zwei Drittel der anwesenden Mitglieder des Fachschaftsrates stimmt der Aufnahme eines Finanzantrages in die Tagesordnung zu).
+6. Beschluss von Dauerbeschlüssen
 
 ### 2. Nichtöffentlicher Sitzungsteil { #§9.2 }
 Tagesordnungspunkte, die unter Ausschluss der Öffentlichkeit behandelt werden, sollen an das Ende der Sitzung gelegt werden.
@@ -66,7 +67,7 @@ Der Punkt „Sonstiges“ ist an das Ende der Tagesordnung zu setzen und soll im
 
 ## § 10 Anträge und Anfragen { #§10 }
 ### 0. Frist { #§10.0 }
-Anträge und Anfragen sollen schriftlich bis zum vierten Tag vor der Sitzung bei der Sitzungskoordination eingereicht und begründet werden. Anträge und Anfragen, die bis vier Tage vor der Sitzung des Fachschaftsrates bei der Sitzungskoordination eingereicht worden sind, sind unter Berücksichtigung von [§ 9.1](#§9.1) in die Tagesordnung der nächsten Sitzung aufzunehmen. Anträge und Anfragen, die später eingereicht werden, werden auf die darauf folgende Sitzung verschoben.
+Anträge und Anfragen sollen in Textform bis zum vierten Tag vor der Sitzung bei der Sitzungskoordination eingereicht und begründet werden. Anträge und Anfragen, die bis vier Tage vor der Sitzung des Fachschaftsrates bei der Sitzungskoordination eingereicht worden sind, sind unter Berücksichtigung von [§ 9.1](#§9.1) in die Tagesordnung der nächsten Sitzung aufzunehmen. Anträge und Anfragen, die später eingereicht werden, werden auf die darauf folgende Sitzung verschoben.
 
 ### 1. Antrags- und Anfrageberechtigte { #§10.1 }
 Berechtigt ist jedes Mitglied der Fachschaft.
@@ -78,7 +79,7 @@ Die Antragsberechtigten können zu jedem Punkt der Tagesordnung und während sei
 Alle Mitglieder der Fachschaft sind berechtigt, Anfragen an den Fachschaftsrat, und einzelne Mitglieder des Fachschaftsrates zu stellen. Anfragen, die das Abstimmungsverhalten betreffen, sind unzulässig. Anfragen müssen schriftlich beantwortet werden. Die Antworten müssen der Sitzungskoordination bis zum Sitzungsbeginn zugeleitet werden. Die Sitzungskoordination verliest die Antworten und leitet sie an das fragende Mitglied der Fachschaft weiter.
 
 ## § 11 Zeitliche Begrenzung der Sitzungen { #§11 }
-Nach 22.30 Uhr darf kein Tagesordnungspunkt außer „Verschiedenes“ aufgerufen werden. Ebenfalls nicht nach 120 Minuten es sei denn, mindestens zwei Drittel der anwesenden Mitglieder des Fachschaftsrates sprechen sich für eine Fortführung der Sitzung aus.
+Nach 22.30 Uhr darf kein Tagesordnungspunkt außer Sonstiges aufgerufen werden. Ebenfalls nicht nach 120 Minuten es sei denn, mindestens zwei Drittel der anwesenden Mitglieder des Fachschaftsrates sprechen sich für eine Fortführung der Sitzung aus.
 
 ## § 12 Anträge zur Geschäftsordnung (GO-Anträge) { #§12 }
 ### 0. Zweck { #§12.0 }
@@ -93,7 +94,7 @@ Auf einen GO-Antrag kann eine Gegenrede folgen. Diese kann auch formal erfolgen.
 ### 3. Anträge { #§12.3 }
 #### 0. Änderung der beschlossenen Tagesordnung. { #§12.3.0 }
    - Bedarf einer 2/3 Mehrheit
-   - Nach Aufruf von Verschiedenes, nicht mehr möglich.
+   - Nach Aufruf von Sonstiges, nicht mehr möglich.
 #### 1. Schluss der Aussprache und sofortige Beschlussfassung oder Beendigung des Tagesordnungspunktes. { #§12.3.1 }
    - Bedarf einer 2/3 Mehrheit
 #### 2. Wiedereintritt in die Aussprache { #§12.3.2 }
@@ -107,12 +108,13 @@ Auf einen GO-Antrag kann eine Gegenrede folgen. Diese kann auch formal erfolgen.
    - Nicht erlaubt bei GO-Anträgen
 #### 5. Erneute Feststellung der Beschlussfähigkeit. { #§12.3.5 }
    - Keine Gegenrede möglich
+   - Dürfen alle Mitglieder der Fachschaft stellen. (nicht nur Fachschaftsräte)
 #### 6. Unterbrechung der Sitzung für einen bestimmten Zeitraum x (2 Minuten >= x <= 10 Minuten) { #§12.3.6 }
    - Keine Gegenrede möglich
    - Höchstens 10 Minuten Pause pro 30 Minuten
 #### 7. Beschränkung der Redezeit. { #§12.3.7 }
 #### 8. Schluss der Redeliste. { #§12.3.8 }
-   - Vor Abstimmung sind die auf der Redeliste stehende Menschen zu nennen.
+   - Vor Abstimmung sind die auf der Redeliste stehenden Menschen zu nennen.
    - Alle mit Rederecht dürfen sich noch einmal auf die Redeliste stellen.
 #### 9. Nichtbefassung eines Antrages. { #§12.3.9 }
 #### 10. Antrag zur vorübergehenden Aussetzung eines Tagesordnungspunktes. { #§12.3.10 }
