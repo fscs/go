@@ -1,8 +1,9 @@
 [book]
 authors = ["Florian Schubert"]
-language = "en"
+language = "de"
 multilingual = false
 src = "src"
-title = "Fachschaft Informatik Go"
+title = "Fachschaft Informatik GO"
 
 [output.html]
+[output.pdf]
